@@ -1,0 +1,9 @@
+canvas{
+    /* border:solid black 2px; */
+    display:block;
+
+    /* Stack Canvases */
+    position:absolute;
+    top:0;
+    left:0;
+}
